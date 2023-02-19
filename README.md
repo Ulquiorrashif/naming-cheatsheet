@@ -373,7 +373,9 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
+
 #commin 1 branch2
-#commin 2 branch2
 #commin 3 branch2
+
+#commit2 branch1
 
